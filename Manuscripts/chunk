@@ -1,0 +1,1 @@
+awk 'BEGIN{RS="##### Split #####"} (NR>1){gsub(/^[ \t\n\r]+|[ \t\n\r]+$/, ""); if($0!=""){f=sprintf("Ref_%03d.txt", NR-1); print $0 > f; close(f)}}' raw_HF.txt
