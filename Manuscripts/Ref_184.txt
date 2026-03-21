@@ -1,0 +1,7 @@
+Tripathi A, Arsha S, Casey D, Olasoko F, Frishman WH, Aronow WS.
+
+Perioperative Anticoagulation Management: Revisiting Bridging Strategies for Mechanical and Nonmechanical Indications.
+
+Cardiol Rev 2025 
+
+Patients with atrial fibrillation, venous thrombosis, and mechanical heart valve (MHV) regularly undergo procedures on a daily basis, for which they require bridging anticoagulation, but this poses significant challenges. Bridging anticoagulation involves temporary interruption of long-term anticoagulation therapy for procedures and continued overlap with short-acting anticoagulants during perioperative period. Heparin-based agents are often used for overlapping in perioperative period to reduce the risk of thromboembolism, but the evidence for benefit particularly in patients with MHV remains limited. For patients with MHV, anticoagulation in the perioperative period remains critical due to increased risk of thrombotic events, particularly in mitral valve replacement and older generation prosthesis. In contrast, for patients without MHVs, particularly in patients with atrial fibrillation and venous thrombosis, evidence suggests selective use of bridging anticoagulation, as it may reduce bleeding complications without significantly affecting the thrombosis risk. This comprehensive literature review synthesizes current guidelines, evidence, and recommendations for optimizing bridging anticoagulation protocol in this subset of patients while identifying current gaps in knowledge.

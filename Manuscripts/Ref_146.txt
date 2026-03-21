@@ -1,0 +1,7 @@
+Nijenhuis VJ, Brouwer J, Søndergaard L, Collet J-P, Grove EL, Ten Berg JM.
+
+Antithrombotic therapy in patients undergoing transcatheter aortic valve implantation.
+
+Heart 2019 105, 742-748.
+
+This review provides a comprehensive overview of the available data on antithrombotic therapy after transcatheter aortic valve implantation (TAVI). In the absence of large randomised clinical trials, clinical practice is leaning towards evidence reported in other populations. Due to the greater risk of major bleeding associated with oral anticoagulation using a vitamin-K antagonist (VKA), antiplatelet therapy (APT) may be considered as the first-line treatment of patients undergoing TAVI. Overall, single rather than dual APT is preferred. However, dual APT should be considered in patients with a recent acute coronary syndrome (ie, within 6 months), complex coronary stenting, large aortic arch atheromas or previous non-cardioembolic stroke. Monotherapy with VKA should be considered if concomitant atrial fibrillation or any other indication for long-term oral anticoagulation is present. APT on top of VKA seems only reasonable in patients with recent acute coronary syndrome, extensive or recent coronary stenting or large aortic arch atheromas. A direct-acting oral anticoagulant may be considered if oral anticoagulation is indicated in the absence of contraindications. Initiation of VKA is indicated in clinical valve thrombosis, for example, with high transvalvular gradient, whereas the role of VKA in the case of subclinical leaflet thrombosis is currently uncertain.
