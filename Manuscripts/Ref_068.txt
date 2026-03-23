@@ -1,7 +1,0 @@
-Geis NA, Kiriakou C, Chorianopoulos E, Pleger ST, Katus HA, Bekeredjian R.
-
-Feasibility and safety of vitamin K antagonist monotherapy in atrial fibrillation patients undergoing transcatheter aortic valve implantation.
-
-EuroIntervention 2017 12, 2058-2066.
-
-AIMS: We aimed to assess the efficacy and safety of vitamin K antagonist (VKA) monotherapy in atrial fibrillation (AF) patients undergoing transcatheter aortic valve implantation (TAVI). METHODS AND RESULTS: In 735 TAVIs since 2008 we identified 167 patients suffering from concomitant AF who received either VKA monotherapy (n=77), VKA plus single antiplatelet therapy (SAPT, n=41) or a triple anticoagulation regimen (n=49). Thromboembolic as well as bleeding complications were analysed for six months after TAVI. Only one minor bleeding and no thromboembolic events occurred after VKA therapy had been initiated post TAVI. Compared to patients being treated with additional either single or dual antiplatelet therapy, the incidence of major/life-threatening bleeding complications was significantly lower in the VKA mono group (0/77 [VKA mono] vs. 3/41 [VKA+SAPT; p=0.04] vs. 4/49 [triple anticoagulation; p=0.02]). Analysis of a combined endpoint of post-procedural death, stroke, embolism and major bleeding revealed a significant superiority of VKA monotherapy compared to VKA plus SAPT or DAPT, respectively (5/77 vs. 9/41 [p=0.02] vs. 14/49 [p=0.002]). CONCLUSIONS: VKA therapy without additional antiplatelet treatment is effective and safe in AF patients undergoing TAVI.

@@ -1,7 +1,0 @@
-Hellfritzsch M, Lund LC, Ennis Z et al.
-
-Ischemic Stroke and Systemic Embolism in Warfarin Users With Atrial Fibrillation or Heart Valve Replacement Exposed to Dicloxacillin or Flucloxacillin.
-
-Clin Pharmacol Ther 2020 107, 607-616.
-
-The antibiotics dicloxacillin and flucloxacillin induce cytochrome P450-dependent metabolism of warfarin. We explored the influence of these drug-drug interactions on the clinical effectiveness of warfarin therapy due to atrial fibrillation or heart valve replacement. Using the population-based Danish registers, we performed a propensity-score matched cohort study including around 50,000 episodes of dicloxacillin/flucloxacillin matched to phenoxymethylpenicillin and to no antibiotic, respectively. We estimated hazard ratios (HRs) with 95% confidence intervals (CIs) by comparing 21-day (days 7-28) risks of ischemic stroke/systemic embolism (SE) following initiation of each exposure. When compared with phenoxymethylpenicillin, dicloxacillin/flucloxacillin was associated with an HR of ischemic stroke/SE of 2.09 (95% CI 1.51-2.90; strongest for dicloxacillin (HR 2.17; 95% CI 1.56-3.02)). Use of an untreated comparator strengthened the association (HR 2.84; 95% CI 1.97-4.09). Dicloxacillin should be used with caution in patients receiving warfarin. This may also apply to flucloxacillin; however, more data on the risks associated with flucloxacillin exposure during warfarin therapy are needed.

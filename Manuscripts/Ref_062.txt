@@ -1,7 +1,0 @@
-Filippelli A, Signoriello S, Bancone C et al.
-
-Prospective validation of the International Warfarin Pharmacogenetics Consortium algorithm in high-risk elderly people (VIALE study).
-
-Pharmacogenomics J 2020 20, 451-461.
-
-We assessed the predictive accuracy of the Warfarin Pharmacogenetics Consortium (IWPC) algorithm in a prospective cohort of 376 high-risk elderly patients (≥65 years) who required new treatment with warfarin for either medical (non valvular atrial fibrillation) or surgical conditions (heart valve replacement), had ≥1 comorbid conditions, and regularly used ≥2 other drugs. Follow-up visits were performed according to clinical practice and lasted for a maximum of 1 year. Two hundred and eighty-three (75%) patients achieved a stable maintenance dose. Warfarin maintenance doses were low on average (median 20.3 mg/week, interquartile range, 14.1-27.7 mg/week) and were substantially overestimated by the IWPC algorithm. Overall the percentage of patients whose predicted dose of warfarin was within 20% of the actual stable dose was equal to 37.5%, (95% CI 32.0-43.3%). IWPC algorithm explained only 31% of the actual warfarin dose variability. Modifications of the IWPC algorithm are needed in high-risk elderly people.
