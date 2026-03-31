@@ -1,0 +1,7 @@
+Yen F-S, Wei JC-C, Yip H-T, Hsu C-C, Hwu C-M.
+
+Metformin use and the risks of herpes zoster and postherpetic neuralgia in patients with type 2 diabetes.
+
+J Med Virol 2023 95, e28278.
+
+Herpes zoster and postherpetic neuralgia cause substantial pain in patients. Persons with type 2 diabetes (T2D) are prone to zoster infection and postherpetic neuralgia due to compromised immunity. We conducted this study to evaluate the risks of herpes zoster and postherpetic neuralgia between metformin users and nonusers. Propensity score matching was utilized to select 47 472 pairs of metformin users and nonusers from Taiwan’s National Health Insurance Research Database between January 1, 2000, and December 31, 2017. The Cox proportional hazards models were used for comparing the risks of herpes zoster and postherpetic neuralgia between metformin users and nonusers in patients with T2D. Compared with no-use of metformin, the adjusted hazard ratios (95% confidence interval) for metformin use in herpes zoster and postherpetic neuralgia were 0.70 (0.66, 0.75) and 0.510 (0.39, 0.68), respectively. A higher cumulative dose of metformin had further lower risks of herpes zoster and postherpetic neuralgia than metformin no-use. This nationwide cohort study demonstrated that metformin use was associated with a significantly lower risk of herpes zoster and postherpetic neuralgia than metformin no-use. Moreover, a higher cumulative dose of metformin was associated with further lower risks of these outcomes.

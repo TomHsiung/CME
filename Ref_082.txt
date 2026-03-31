@@ -1,0 +1,7 @@
+Li J-b, Cheng Y-z, Shi M et al.
+
+[The relationship between plasma homocysteine levels and diabetic peripheral neuropathy].
+
+Zhonghua Nei Ke Za Zhi 2011 50, 14-17.
+
+OBJECTIVE: To explore the relationship between plasma homocysteine levels and diabetic peripheral neuropathy (DPNP). METHODS: A crossectional analysis was conducted on 227 patients with type 2 diabetes. Peripheral neuropathy was confirmed using electromyography (EMG). The risk factors possibly associated with diabetic neuropathy or plasma homocysteine levels were analyzed in relation to likelihood of occurrence of DPNP. RESULTS: Eighty patients with neuropathy and 147 patients without neuropathy were included. Plasma homocysteine levels were significantly higher in patients with diabetic neuropathy [(12.6 ± 3.6) µmol/L] than without diabetic neuropathy [(8.2 ± 0.9) µmol/L] (P < 0.001), and the relationship remained significant after adjusting for duration of diabetes, glycosylated hemoglobin A1c (HbA1c), age, renal status, serum folate acid and vitamin B(12), and metformin [OR 1.15 (1.02 - 1.28), P < 0.05]. In addition, per increase of 4.0 µmol/L plasma homocysteine was closely related to the occurrence of neuropathy after controlling for per unit increase of other confounding factors [OR 1.17 (0.94 - 1.33), P < 0.05]. CONCLUSIONS: Hyperhomocysteinemia was an independent risk factor for the occurrence of diabetic peripheral neuropathy.

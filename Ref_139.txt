@@ -1,0 +1,7 @@
+Tschöpe D, Bramlage P, Schneider S, Gitt AK.
+
+Incidence, characteristics and impact of hypoglycaemia in patients receiving intensified treatment for inadequately controlled type 2 diabetes mellitus.
+
+Diab Vasc Dis Res 2016 13, 2-12.
+
+AIMS: With the intensification of antidiabetic treatment, there is an increasing risk of hypoglycaemia. We aimed to determine incidence, characteristics and outcomes. METHODS: Prospective, observational, multicenter cohort study. The included 3810 patients with type 2 diabetes had their treatment intensified at baseline. RESULTS: The incidence of hypoglycaemia was 11.4% per year with 4.2 ± 4.4 episodes per patient. Hypoglycaemia was more frequent in patients with high blood glucose variability. Predictors were heart failure (odds ratio: 1.66; 95% confidence interval: 1.20-2.29) and insulin use (odds ratio: 4.03; 95% confidence interval: 3.05-5.33), with dipeptidyl peptidase-4 inhibitors being associated with reduced risk (odds ratio: 0.69; 95% confidence interval: 0.53-0.89). Macrovascular events were more frequent among patients reporting severe episodes of hypoglycaemia (odds ratio: 3.39; 95% confidence interval: 1.32-8.73). Microvascular events were more frequent in patients with non-severe episodes (odds ratio: 1.92; 95% confidence interval: 1.49-2.49). CONCLUSION: Case-by-case evaluation of patients as well as appropriate selection of antidiabetic pharmacotherapy and blood glucose treatment goals could maximize the benefits while reducing the risks of antidiabetic treatment.

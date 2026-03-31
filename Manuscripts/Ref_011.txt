@@ -1,7 +1,0 @@
-De Pasquale CG, Dunne JS, Minson RB, Arnolda LF.
-
-Hypotension is associated with diuretic resistance in severe chronic heart failure, independent of renal function.
-
-Eur J Heart Fail 2005 7, 888-891.
-
-BACKGROUND: Diuretic resistance and systemic hypotension are common in chronic heart failure (CHF), however, the two have not been associated. AIMS: Since blood pressure (BP) might be an important determinant of sodium excretion, we searched for an association between BP and diuretic dosage in severe CHF. METHODS: Our heart failure database was retrospectively reviewed for patients with severe left ventricular systolic dysfunction. The 54-patient cohort was divided on the basis of frusemide dosage (high-dose > or = 250 mg daily, n=26). RESULTS: Patients taking high-dose frusemide had higher serum creatinine, and lower systolic and diastolic BP. On logistic regression analysis, increased serum creatinine and reduced diastolic BP were independent predictors of the use of high-dose frusemide. Grouping these variables into tertiles, the odds ratio for the use of high-dose frusemide was 4.0 as diastolic BP decreased (p<0.01), and 6.8 as serum creatinine increased (p<0.001). CONCLUSIONS: We have found an association between hypotension and the use of high-dose frusemide in severe CHF, which is independent of renal function, and which may be an important physiologic mechanism of diuretic resistance in severe CHF.

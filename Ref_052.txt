@@ -1,0 +1,7 @@
+Hansen CS, Jensen JS, Ridderstråle M, Vistisen D, Jørgensen ME, Fleischer J.
+
+Vitamin B12 deficiency is associated with cardiovascular autonomic neuropathy in patients with type 2 diabetes.
+
+J Diabetes Complications 2017 31, 202-208.
+
+AIMS: Vitamin B12 deficiency could be associated with cardiovascular autonomic neuropathy (CAN) in diabetes patients. We aim to investigate the association between serum levels of vitamin B12 and CAN in type 2 diabetes patients. METHODS: 469 ambulatory type 2 diabetes patients (mean diabetes duration 10.0years (IQR 5.0;17.0), mean age 59.0years (SD 11.6), 63% men, mean B12 289.0pmol/l (IQR 217;390)) were screened for CAN using three cardiovascular reflex tests, five minute resting heart rate (5min RHR) and heart rate variability indices. RESULTS: Serum levels of vitamin B12 were significantly lower in patients treated with metformin and/or proton pump inhibitors (PPIs) compared with patients not treated (p<0.001). A 25pmol/l higher level of vitamin B12 was associated with an odds ratio of the CAN diagnosis of 0.94 (95% CI 0.88; 1.00, p=0.034), an increase in E/I-ratio of 0.21% (95% CI 0.01; 0.43, p=0.038), and a decrease in 5min RHR of 0.25 beats per minute (95% CI -0.47; -0.03, p=0.025). CONCLUSION: Vitamin B12 may be inversely associated with CAN in patients with type 2 diabetes. Confirmatory studies investigating a causal role of vitamin B12 for the development of diabetic CAN are warranted.

@@ -1,0 +1,7 @@
+Hashem MM, Esmael A, Nassar AK, El-Sherif M.
+
+The relationship between exacerbated diabetic peripheral neuropathy and metformin treatment in type 2 diabetes mellitus.
+
+Sci Rep 2021 11, 1940.
+
+Metformin-treated diabetics (MTD) showed a decrease in cobalamin, a rise in homocysteine, and methylmalonic acid, leading to accentuated diabetic peripheral neuropathy (DPN). This study aimed to determine whether or not metformin is a risk factor for DPN. We compared MTD to non-metformin-treated diabetics (NMTD) clinically using the Toronto Clinical Scoring System (TCSS), laboratory (methylmalonic acid, cobalamin, and homocysteine), and electrophysiological studies. Median homocysteine and methylmalonic acid levels in MTD vs. NMTD were 15.3 vs. 9.6 µmol/l; P < 0.001 and 0.25 vs. 0.13 µmol/l; P = 0.02, respectively with high statistical significance in MTD. There was a significantly lower plasma level of cobalamin in MTD than NMTD. Spearman’s correlation showed a significant negative correlation between cobalamin and increased dose of metformin and a significant positive correlation between TCSS and increased dose of metformin. Logistic regression analysis showed that MTD had significantly longer metformin use duration, higher metformin dose > 2 g, higher TCSS, lower plasma cobalamin, and significant higher homocysteine. Diabetics treated with metformin for prolonged duration and higher doses were associated with lower cobalamin and more severe DPN.

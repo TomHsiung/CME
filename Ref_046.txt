@@ -1,0 +1,7 @@
+Geoghegan JM, Clark DI, Bainbridge LC, Smith C, Hubbard R.
+
+Risk factors in carpal tunnel syndrome.
+
+J Hand Surg Br 2004 29, 315-320.
+
+We have undertaken a large case-control study using the UK General Practice Research Database to quantify the relative contributions of the common risk factors for carpal tunnel syndrome (CTS) in the community. Cases were patients with a diagnosis of CTS and, for each, four controls were individually matched by age, sex and general practice. Our dataset included 3,391 cases, of which 2,444 (72%) were women, with a mean age at diagnosis of 46 (range 16-96) years. Multivariate analysis showed that the risk factors associated with CTS were previous wrist fracture (OR=2.29), rheumatoid arthritis (OR=2.23), osteoarthritis of the wrist and carpus (OR=1.89), obesity (OR=2.06), diabetes (OR=1.51), and the use of insulin (OR=1.52), sulphonylureas (OR=1.45), metformin (OR=1.20) and thyroxine (OR=1.36). Smoking, hormone replacement therapy, the combined oral contraceptive pill and oral corticosteroids were not associated with CTS. The results were similar when cases were restricted to those who had undergone carpal tunnel decompression.
